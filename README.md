@@ -8,4 +8,4 @@
 - Mobile-first workflow
 
 ### What I learned
-I learned how to center elements with flexbox following a tutorial from (Free Code Camp [https://www.freecodecamp.org/news/css-positioning-and-flexbox-explained/])
+I learned how to center elements with flexbox following a tutorial from [Free Code Camp](https://www.freecodecamp.org/news/css-positioning-and-flexbox-explained/)
